@@ -1,1 +1,4 @@
-apiKey=6529ec09
+apiKey="YourKey"
+
+Get your own key from: 
+https://www.omdbapi.com/apikey.aspx?__EVENTTARGET=freeAcct
